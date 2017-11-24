@@ -1,0 +1,55 @@
+@keyframes slide {
+  0%{margin-top:15%;}
+  25%{margin-bottom:25%;}
+  50%{margin-left: 0%;}
+  75%{margin-right: 69%;}
+  100%{margin-bottom: :13%;}
+}
+
+@-webkit-keyframes slide{
+  0%{margin-top:15%;}
+  25%{margin-bottom:25%;}
+  50%{margin-left: : 0%;}
+  75%{margin-right: 69%;}
+  100%{margin-bottom: :13%;}
+}
+
+@keyframes background {
+  0%{ background: #BA1159;}
+  25%{background: #841153;}
+  50%{background: #B4173D;}
+  75%{background: #BA11AD;}
+  100%{background: #8A2DE2;}
+}
+
+@-webkit-keyframes background {
+  0%{ background: #BA1159;}
+  25%{background: #841153;}
+  50%{background: #B4173D;}
+  75%{background: #BA11AD;}
+  100%{background:#8A2DE2;}
+}
+
+
+body{
+  animation:  background 50s infinite running  ;
+  -webkit-animation: background 50s infinite running;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#box{
+animation: slide 10s infinite running;
+-webkit-animation: slide 10s infinite running;
+
+
+}
+img{
+  display: flex;
+  margin-top: 15%;
+  margin-left:65%;
+  align-items: center;
+  justify-content: center;
+  width: 15%;
+
+}
