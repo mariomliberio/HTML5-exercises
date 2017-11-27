@@ -17,17 +17,17 @@
 @keyframes background {
   0%{ background: #BA1159;}
   25%{background: #841153;}
-  50%{background: #B4173D;}
+  50%{background: #8A2DE2;}
   75%{background: #BA11AD;}
-  100%{background: #8A2DE2;}
+  100%{background:#BA1159;}
 }
 
 @-webkit-keyframes background {
-  0%{ background: #BA1159;}
+ 0%{ background: #BA1159;}
   25%{background: #841153;}
-  50%{background: #B4173D;}
+  50%{background: #8A2DE2;}
   75%{background: #BA11AD;}
-  100%{background:#8A2DE2;}
+  100%{background:#BA1159;}
 }
 
 

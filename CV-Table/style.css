@@ -1,0 +1,62 @@
+.top {
+  background-color: blue;
+  color: white;
+  border: 1px;
+  border-style: solid;
+}
+
+.contact {
+  border: 1px, solid;
+}
+
+.name {
+  font-size: 48px;
+  font-weight: bold;
+  color: blue;
+  border: 1px, solid;
+}
+
+.info {
+  border: 1px, solid;
+  margin: auto;
+  margin: auto;
+}
+
+.work {
+  border: 1px, solid;
+}
+
+.play {
+  border: 1px, solid;
+}
+
+.ratings {
+  border: 1px, solid;
+}
+
+.dates {
+  float: left;
+  border: 1px, solid;
+}
+
+.xp {
+  border: 1px, solid;
+}
+
+.xptit {
+  border: 1px, solid;
+}
+
+.job {
+  border: 1px, solid;
+}
+
+.resume {
+  background-color: lightgrey;
+  border: 1px, solid;
+}
+
+body {
+  background-color: grey;
+  font-family: Arial, sans-serif;
+}
