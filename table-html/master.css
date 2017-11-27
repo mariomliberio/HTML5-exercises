@@ -1,12 +1,63 @@
 body {
   font-family: 'Noto Sans', sans-serif;
+  animation:  background 50s infinite running
+
+}
+@keyframes background {
+  0%{ background: #BA1159;}
+   25%{background: #841153;}
+   50%{background: #8A2DE2;}
+   75%{background: #BA11AD;}
+   100%{background:#BA1159;}
 }
 
-table tr: {
+@-webkit-keyframes background {
+  0%{ background: #BA1159;}
+   25%{background: #841153;}
+   50%{background: #8A2DE2;}
+   75%{background: #BA11AD;}
+   100%{background:#BA1159;}
+}
+.main{
+border: 5px;
+border-style: solid;
+border-color: #3FB292;
+justify-content: center;
+align-items: center;
+border-collapse: collapse;
+margin-left: auto;
+margin-right: auto;
+vertical-align: middle;
+width: 1000px;
+background-color: white;
 
-  background-color: #2B3;
+}
+.container{
+
+
+}
+.head{
+
 }
 
-table tr: {
-  background-color: #9011CE;
+.p{
+text-align: center;
+flex-grow: 2;
+border: 1px;
+border-style: solid;
+border-color: inherit;
+
+}
+/* I wanted to write an if, else statement to select background color
+   then realised CSS doesn't have conditional syntax, I will fix
+   background-color when i learn to use js..                         */
+.man{
+  background-color: purple;
+}
+
+.wman{
+  background-color: green;
+}
+#title{
+align-items: center;
 }
