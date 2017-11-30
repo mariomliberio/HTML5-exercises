@@ -4,4 +4,4 @@
 
 ### [TABLE HTML](https://mariomliberio.github.io/HTML5-exercises/table-html/index.html)
 
-### [ONEPAGE 1](https://mariomliberio.github.io/HTML5-exercises/Onepager-1/index.html)
+### [ONEPAGE 1](https://mariomliberio.github.io/HTML5-exercises/Onepage-1/index.html)
