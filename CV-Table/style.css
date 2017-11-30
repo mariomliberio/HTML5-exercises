@@ -3,57 +3,102 @@
   color: white;
   border: 1px;
   border-style: solid;
+  border-color: black;
 }
 
+.skcontainer{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+.sktitle{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+.skills{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+.skspc{
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
 .contact {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .name {
   font-size: 48px;
   font-weight: bold;
   color: blue;
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .info {
-  border: 1px, solid;
-  margin: auto;
-  margin: auto;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .work {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .play {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .ratings {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .dates {
-  float: left;
-  border: 1px, solid;
+  line-height: 40px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .xp {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .xptit {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  color: blue;
 }
 
+
+
 .job {
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 .resume {
   background-color: lightgrey;
-  border: 1px, solid;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
 }
 
 body {

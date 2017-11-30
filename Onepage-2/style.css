@@ -1,0 +1,63 @@
+body{
+      font-family: 'Montserrat', sans-serif;
+}
+
+* {
+  outline: 1px solid red;
+}
+
+.menubar {
+  display: flex;
+  background-color: #373e46;
+  flex-direction: row-reverse;
+  max-height: 3em;
+}
+
+.main{
+  text-align: center;
+  color: white;
+
+
+}
+
+.mid {
+  background-color: #31a1d0;
+  text-align:  center;
+}
+
+.steps {
+  background-color: #f7f7f7;
+}
+
+.info {
+  background-color: #ffffff;
+  text-align: left;
+}
+
+.form {
+  background-color: #373e46;
+}
+.formtxt{
+  text-align: center;
+}
+
+.free{
+  color: #31a1d0;
+}
+
+.description1 {
+  background-color: #42a8d1;
+  color: white;
+}
+
+.footer {
+  background-color: #373e46;
+display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer p {
+  max-width: 65%;
+  color: white;
+}
