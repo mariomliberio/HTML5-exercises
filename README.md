@@ -9,5 +9,5 @@
 
 
 
-### [MEDIA QUERIES](https://mariomliberio.github.io/HTML5-exercises/Media Queries/tp_final/index.html)
+### [MEDIA QUERIES](https://mariomliberio.github.io/HTML5-exercises/tp_final/index.html)
 
