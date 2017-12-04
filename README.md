@@ -5,3 +5,9 @@
 ### [TABLE HTML](https://mariomliberio.github.io/HTML5-exercises/table-html/index.html)
 
 ### [ONEPAGE 1](https://mariomliberio.github.io/HTML5-exercises/Onepage-1/index.html)
+
+
+
+
+### [MEDIA QUERIES](https://mariomliberio.github.io/HTML5-exercises/Media Queries/tp_final/index.html)
+
